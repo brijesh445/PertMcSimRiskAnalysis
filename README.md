@@ -1,4 +1,4 @@
-PERT-Monte Carlo Risk Estimation for Sprint Planning.
+<h1>PERT-Monte Carlo Risk Estimation for Sprint Planning.</h1>
 
 🚀 This project is a React application that simulates sprint durations using the PERT (Program Evaluation Review Technique) method combined with Monte Carlo simulations. It helps teams better estimate project timelines, visualize risks, and make data-driven decisions.
 
