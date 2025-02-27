@@ -16,20 +16,29 @@ PERT-Monte Carlo Risk Estimation for Sprint Planning.
 
 📤 Excel Import/Export: Import and export sprint, task, and risk data as Excel files for external analysis.
 
-🛠️ Installation
+<h2>🛠️ Installation Steps:</h2>
 
-Clone the repository:
+<p>1. Clone the repository:</p>
 
-git clone <repository_url>
-cd <repository_folder>
+```
+git clone repository_url
+```
 
-Install dependencies:
+```
+cd repository_folder
+```
 
-npm install
+<p>3. Install dependencies:</p>
 
-Start the development server:
+```
+yarn
+```
 
-npm start
+<p>4. Start the development server:</p>
+
+```
+yarn start
+```
 
 The app will be available at http://localhost:3000.
 
