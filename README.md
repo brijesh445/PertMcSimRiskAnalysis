@@ -70,37 +70,17 @@ Creating a Sprint:
 
 Click "Create New Sprint" and name it.
 
-Add 5 tasks with duration estimates.
+Add 7 tasks with duration estimates.
 
 Adding Tasks:
 
-✅ Task 1: Develop Login Feature (O: 5, ML: 7, P: 10)
+![Add Task](https://github.com/user-attachments/assets/67a88b93-eb1f-4c59-bb2a-b2d1ac24f453)
 
-✅ Task 2: Build API (O: 3, ML: 5, P: 8, depends on Task 1)
-
-✅ Task 3: Design UI (O: 4, ML: 6, P: 9)
-
-✅ Task 4: Write Test Cases (O: 2, ML: 4, P: 7, depends on Task 2)
-
-✅ Task 5: Final Integration (O: 6, ML: 9, P: 12, depends on Tasks 3 & 4)
 
 Configuring Risk Factors:
 
-⚠️ Risk 1: Server Outage
+![RiskFactor](https://github.com/user-attachments/assets/52a50b4d-7bd9-4a71-9ebf-c0e15e2fb34c)
 
-Probability: 10%
-
-Impact: +5 days
-
-Affects: Task 1 (Develop Login Feature)
-
-🛡️ Risk 2: API Security Breach
-
-Probability: 15%
-
-Impact: +3 days
-
-Affects: Task 2 (Build API)
 
 Running the Simulation:
 
@@ -109,6 +89,8 @@ Running the Simulation:
 📉 Compare the sprint duration with and without the risk factors.
 
 📊 View the statistical breakdown (mean, percentiles) and a histogram of results.
+![SimulaitionResult-](https://github.com/user-attachments/assets/97dd5061-82b3-4b71-8a98-8e16c4068c38)
+![SimulaitionResult-3](https://github.com/user-attachments/assets/a1bf306c-7ae4-4c59-abee-1b3e63b404a4)
 
 Exporting and Importing Data:
 
