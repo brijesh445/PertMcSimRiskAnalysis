@@ -50,7 +50,7 @@ Set Dependencies: Choose task dependencies as needed.
 
 Add Risk Factors: Specify risk types, probabilities, and impacts. Assign risks to specific tasks or leave empty to apply globally.
 
-Run Simulation: Execute a Monte Carlo simulation (5000 iterations) to calculate mean, percentiles, and duration differences with and without risks.
+Run Simulation: Execute a Monte Carlo simulation (10000 iterations) to calculate mean, percentiles, and duration differences with and without risks.
 
 Export Results: Export tasks, statistics, and histograms to an Excel file.
 
