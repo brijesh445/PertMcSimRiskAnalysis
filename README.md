@@ -62,7 +62,7 @@ The app visualizes the duration distribution in a responsive histogram using the
 
 ➡️ Space for images or diagrams to showcase the app's UI and result charts
 
-🧠 Example
+<h2>🧠 Example</h2>
 
 Here’s a more detailed example of the app in action with multiple tasks and risk factors:
 
@@ -132,7 +132,7 @@ RiskFactors Sheet: Risk type, probability, impact, and affected tasks.
 
 RiskHistogram Sheet: Average contribution of each risk factor.
 
-🚀 Future Enhancements
+<h2>🚀 Future Enhancements</h2>
 
 🟩 Gantt chart visualization.
 
