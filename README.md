@@ -84,7 +84,7 @@ Configuring Risk Factors:
 
 Running the Simulation:
 
-▶️ Click "Run Simulation" to run 5000 iterations.
+▶️ Click "Run Simulation" to run 10000 iterations.
 
 📉 Compare the sprint duration with and without the risk factors.
 
