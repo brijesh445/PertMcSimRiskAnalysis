@@ -98,7 +98,6 @@ Exporting and Importing Data:
 
 📥 Re-import the Excel file to continue working on the sprint later.
 
-➡️ Space for images to show example results, risk contribution graphs, and histograms
 
 This more complex setup helps you experiment with various risk scenarios, optimize timelines, and make better data-driven decisions for sprint planning.
 
